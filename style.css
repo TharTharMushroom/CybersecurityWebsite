@@ -73,20 +73,6 @@
     margin-bottom: 20px;
   }
  
-  .btn {
-    background: #fff;
-    color: #00ff1a;
-    padding: 10px 20px;
-    border-radius: 25px;
-    text-decoration: none;
-    transition: 0.3s;
-  }
- 
-  .btn:hover {
-    background: #0072ff;
-    color: #fff;
-  }
- 
   .section {
     padding: 80px 10%;
     text-align: center;
@@ -148,4 +134,5 @@
     text-align: center;
     padding: 20px;
   }
+
 
