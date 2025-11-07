@@ -87,13 +87,11 @@
     color: #fff;
   }
  
-  /* Section Base */
   .section {
     padding: 80px 10%;
     text-align: center;
   }
  
-  /* About */
   .about-content {
     display: flex;
     align-items: center;
@@ -108,7 +106,7 @@
     max-width: 100%;
   }
  
-  /* Services */
+  /* Card Sections */
   .service-cards {
     margin-top: 20px;
     display: flex;
@@ -141,19 +139,7 @@
     color: #00940a;
     margin-bottom: 10px;
   }
- 
-  /* Portfolio */
-  .portfolio-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 15px;
-  }
- 
-  .portfolio-grid img {
-    width: 100%;
-    border-radius: 10px;
-  }
- 
+
  
   /* Footer */
   footer {
@@ -162,3 +148,4 @@
     text-align: center;
     padding: 20px;
   }
+
